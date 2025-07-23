@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/audiobook-library-0e3428bd/mobile_frontend_app
+flutter analyze
+
